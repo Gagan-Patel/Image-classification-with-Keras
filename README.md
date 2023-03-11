@@ -13,13 +13,16 @@ Build a pair of Python scripts that run from the command line to train an image 
 
 The project is broken down into multiple steps:
 
-Load and preprocess the image dataset
+- Load and preprocess the image dataset
 
-Train the image classifier on your dataset
+- Train the image classifier on your dataset
 
-Use the trained classifier to predict image content
+- Use the trained classifier to predict image content
 
-Sanity Check
+- Sanity Check
 
 The code is provided in a Jupyter Notebook then converted in a dash application using command line.
+At the end of the project class names can be classified with picture and probabilty as shown below:
+![Screenshot (82)](https://user-images.githubusercontent.com/122751229/224510891-54dc13d7-7075-42fe-b480-135b79937eff.png)
+
 
